@@ -1,5 +1,6 @@
 # toDo-js
-Simple toDo app
+You can add, remove you tasks or filter it
+
 ## Technologies:
 
 - HTML
@@ -8,3 +9,4 @@ Simple toDo app
 
 ## Live
 
+https://p4wix.github.io/toDo-js/.
