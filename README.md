@@ -1,5 +1,5 @@
 # toDo-js
-You can add, remove you tasks or filter it
+You can add, remove your tasks or filter them
 
 ## Technologies:
 
