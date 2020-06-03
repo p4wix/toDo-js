@@ -1,11 +1,11 @@
 # toDo-js
-You can add, remove your tasks or filter them
+You can add, remove your tasks or filter them.
 
 ## Technologies:
 
 - HTML
 - CSS/SCSS
-- JS
+- JS, using localstorage
 
 ## Live
 
